@@ -17,3 +17,11 @@ Enter the value of x1, y1, x2, y2: 1 2 3 4
 Enter the value of x: 2
 The value of y is: 3.000000
 ```
+
+ipxy.forth83
+
+
+```
+1 2 3 4 2 linear-interpolation .
+3
+```
