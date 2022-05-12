@@ -9,4 +9,11 @@ Online calculator for linear interpolation and extrapolation. Given two (x, y) p
 - x_1, y_1	=	values of the function at one point
 - x_2, y_2	=	values of the function at another point
 
+ipxy.c
 
+
+```
+Enter the value of x1, y1, x2, y2: 1 2 3 4
+Enter the value of x: 2
+The value of y is: 3.000000
+```
